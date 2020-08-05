@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... [PhamaMicroCRM](https://github.com/philipeformagio/phama-micro-crm)
 - 🌱 I’m currently learning ... Modern JavaScript
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/philipeformagio)
+- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/philipeformagio) or philipe.formagio@gmail.com
 
 <!--
 - 👯 I’m looking to collaborate on ...
