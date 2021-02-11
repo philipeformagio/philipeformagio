@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... [PhamaMicroCRM](https://github.com/philipeformagio/phama-micro-crm)
-- 🌱 I’m currently learning ... Modern JavaScript
+- 🌱 I’m currently learning ... RabbitMQ
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/philipeformagio) or philipe.formagio@gmail.com
 
